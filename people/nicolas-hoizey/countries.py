@@ -1,0 +1,20 @@
+countries_dict = {
+  'PT': ['Portugal', 5, 5],
+  'GB': ['United Kingdom', 15, 15],
+  'KE': ['Kenya', 73, 83],
+  'CN': ['South China Sea Islands (disputed)', 19, 20],
+  'NL': ['Netherlands', 13, 16],
+  'DO': ['Dominican Republic', 1, 1],
+  'MA': ['Morocco', 6, 6],
+  'FR': ['France', 123, 146],
+  'GR': ['Greece', 16, 16],
+  'ES': ['Spain', 7, 8],
+  'US': ['United States of America', 15, 16],
+  'GE': ['Georgia', 15, 15],
+  'IT': ['Italy', 13, 15],
+  'BE': ['Belgium', 2, 2],
+  'VA': ['Vatican City', 2, 2],
+  'EG': ['Egypt', 6, 7],
+  'CA': ['Canada', 1, 1],
+  'SE': ['Sweden', 6, 8]
+}

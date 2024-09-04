@@ -1,0 +1,23 @@
+countries_dict = {
+  'CM': ['Cameroon', 30, 64],
+  'US': ['United States of America', 7, 9],
+  'PT': ['Portugal', 202, 203],
+  'AE': ['United Arab Emirates', 2, 2],
+  'IN': ['India', 8, 35],
+  'XK': ['Kosovo', 4, 120],
+  'KH': ['Cambodia', 25, 75],
+  'CZ': ['Czechia', 25, 33],
+  'VA': ['Vatican City', 34, 42],
+  'MK': ['North Macedonia', 1, 4],
+  'UG': ['Uganda', 7, 23],
+  'ZM': ['Zambia', 6, 6],
+  'GB': ['United Kingdom', 933, 1230],
+  'RU': ['Russia', 35, 80],
+  'AU': ['Australia', 16, 27],
+  'FR': ['France', 9, 9],
+  'ES': ['Spain', 211, 237],
+  'DK': ['Denmark', 9, 18],
+  'RO': ['Romania', 30, 30],
+  'TR': ['Turkey', 29, 61],
+  'IT': ['Italy', 1234, 1379]
+}

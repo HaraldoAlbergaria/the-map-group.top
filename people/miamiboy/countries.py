@@ -1,0 +1,23 @@
+countries_dict = {
+  'US': ['United States of America', 7442, 12227],
+  'GR': ['Greece', 7, 15],
+  'BM': ['Bermuda', 7, 21],
+  'GT': ['Guatemala', 12, 18],
+  'KY': ['Cayman Islands', 5, 18],
+  'CU': ['Cuba', 4, 5],
+  'CA': ['Canada', 11, 20],
+  'PE': ['Peru', 7, 12],
+  'ES': ['Spain', 14, 28],
+  'MX': ['Mexico', 9, 29],
+  'NL': ['Aruba', 18, 61],
+  'HR': ['Croatia', 8, 10],
+  'BS': ['Bahamas', 9, 10],
+  'IT': ['Italy', 1, 3],
+  'DO': ['Dominican Republic', 7, 16],
+  'HN': ['Honduras', 31, 62],
+  'MA': ['Morocco', 1, 1],
+  'NI': ['Nicaragua', 1, 1],
+  'CO': ['Colombia', 2, 8],
+  'TR': ['Turkey', 10, 19],
+  'TC': ['Turks and Caicos Islands', 2, 37]
+}

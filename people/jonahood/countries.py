@@ -1,0 +1,21 @@
+countries_dict = {
+  'GB': ['United Kingdom', 135, 364],
+  'KE': ['Kenya', 1, 17],
+  'IE': ['Ireland', 1, 55],
+  'ZA': ['South Africa', 3, 19],
+  'PL': ['Poland', 1, 1],
+  'HR': ['Croatia', 1, 45],
+  'SD': ['Sudan', 2, 40],
+  'IT': ['Italy', 1, 1],
+  'EE': ['Estonia', 1, 2],
+  'NZ': ['New Zealand', 12, 64],
+  'SE': ['Sweden', 2, 38],
+  'TR': ['Turkey', 1, 6],
+  'AR': ['Argentina', 1, 29],
+  'IS': ['Iceland', 1, 1],
+  'MV': ['Maldives', 2, 9],
+  'GR': ['Greece', 2, 2],
+  'ET': ['Ethiopia', 6, 201],
+  'EG': ['Egypt', 1, 3],
+  'SY': ['Syria', 2, 2]
+}
