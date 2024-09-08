@@ -4,6 +4,6 @@ user_info = {
   'name': 'LFDV1960',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/78498223@N06_r.jpg',
   'url': 'https://www.flickr.com/photos/78498223@N06/',
-  'markers': 244,
-  'photos': 1059
+  'markers': 336,
+  'photos': 1368
 }
