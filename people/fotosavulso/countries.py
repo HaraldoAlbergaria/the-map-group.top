@@ -1,11 +1,11 @@
 countries_dict = {
+  'ST': ['São Tomé and Príncipe', 103, 112],
   'CV': ['Cape Verde', 21, 25],
-  'FR': ['France', 62, 64],
   'AT': ['Austria', 1, 1],
-  'PT': ['Portugal', 340, 366],
+  'AD': ['Andorra', 2, 2],
   'IT': ['Italy', 1, 1],
-  'ES': ['Spain', 20, 22],
   'US': ['United States of America', 3, 3],
-  'ST': ['São Tomé and Príncipe', 103, 109],
-  'AD': ['Andorra', 2, 2]
+  'PT': ['Portugal', 341, 369],
+  'ES': ['Spain', 20, 22],
+  'FR': ['France', 62, 65]
 }
