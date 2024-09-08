@@ -5,5 +5,5 @@ user_info = {
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/28018306@N08_r.jpg',
   'url': 'https://www.flickr.com/photos/ggphoto36/',
   'markers': 923,
-  'photos': 968
+  'photos': 994
 }
