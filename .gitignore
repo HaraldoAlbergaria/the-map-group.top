@@ -14,3 +14,4 @@ update-initial-code.sh
 update-repos.sh
 update-maps.sh
 run-update-maps.sh
+backup-data.sh
