@@ -4,6 +4,6 @@ user_info = {
   'name': 'michael_jeddah',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/15029120@N00_r.jpg',
   'url': 'https://www.flickr.com/photos/michael_from_berlin/',
-  'markers': 7223,
-  'photos': 7763
+  'markers': 7224,
+  'photos': 7764
 }
