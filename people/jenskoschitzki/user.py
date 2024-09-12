@@ -4,6 +4,6 @@ user_info = {
   'name': 'Jens Koschitzki',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/108188718@N06_r.jpg',
   'url': 'https://www.flickr.com/photos/jenskoschitzki/',
-  'markers': 4807,
-  'photos': 31710
+  'markers': 4811,
+  'photos': 31714
 }
