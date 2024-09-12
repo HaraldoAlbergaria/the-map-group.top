@@ -2,8 +2,8 @@ user_info = {
   'id': '43499552@N03',
   'alias': 'adam_swaine',
   'name': 'Adam Swaine',
-  'avatar': '../../icons/photographer.svg',
+  'avatar': 'https://live.staticflickr.com/5674/buddyicons/43499552@N03_r.jpg',
   'url': 'https://www.flickr.com/photos/adam_swaine/',
-  'markers': 16506,
-  'photos': 24653
+  'markers': 16511,
+  'photos': 24659
 }
