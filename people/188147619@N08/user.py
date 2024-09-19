@@ -4,6 +4,6 @@ user_info = {
   'name': 'Willie Ng',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/188147619@N08_r.jpg',
   'url': 'https://www.flickr.com/photos/188147619@N08/',
-  'markers': 90,
-  'photos': 93
+  'markers': 94,
+  'photos': 97
 }
