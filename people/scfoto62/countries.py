@@ -1,5 +1,5 @@
 countries_dict = {
-  'FR': ['France', 1882, 2938],
-  'BE': ['Belgium', 84, 158],
-  'DE': ['Germany', 2, 2]
+  'DE': ['Germany', 2, 2],
+  'FR': ['France', 1883, 2939],
+  'BE': ['Belgium', 84, 158]
 }
