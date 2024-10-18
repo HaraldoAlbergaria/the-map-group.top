@@ -4,6 +4,6 @@ user_info = {
   'name': 'CoronaViking (mountain photogr',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/169246257@N06_r.jpg',
   'url': 'https://www.flickr.com/photos/starcitizen/',
-  'markers': 3484,
-  'photos': 3586
+  'markers': 3485,
+  'photos': 3587
 }
