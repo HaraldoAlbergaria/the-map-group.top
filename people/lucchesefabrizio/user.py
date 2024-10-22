@@ -4,6 +4,6 @@ user_info = {
   'name': 'Fabrizio LUCCHESE',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/86411192@N06_r.jpg',
   'url': 'https://www.flickr.com/photos/lucchesefabrizio/',
-  'markers': 1350,
-  'photos': 1354
+  'markers': 1352,
+  'photos': 1356
 }
