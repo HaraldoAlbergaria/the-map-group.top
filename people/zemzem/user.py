@@ -4,6 +4,6 @@ user_info = {
   'name': 'mouzhik',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/67878469@N00_r.jpg',
   'url': 'https://www.flickr.com/photos/zemzem/',
-  'markers': 286,
-  'photos': 420
+  'markers': 287,
+  'photos': 421
 }
