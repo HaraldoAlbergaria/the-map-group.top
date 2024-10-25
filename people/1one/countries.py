@@ -1,10 +1,10 @@
 countries_dict = {
-  'GB': ['United Kingdom', 1, 1],
   'IT': ['Italy', 2, 2],
-  'KP': ['North Korea', 1, 1],
-  'JP': ['Japan', 3074, 37071],
-  'US': ['United States', 18, 21],
-  'BS': ['Bahamas', 6, 8],
   'FR': ['France', 49, 50],
-  'BA': ['Bosnia and Herzegovina', 16, 16]
+  'BA': ['Bosnia and Herzegovina', 16, 16],
+  'KP': ['North Korea', 1, 1],
+  'BS': ['Bahamas', 6, 8],
+  'JP': ['Japan', 3075, 37072],
+  'US': ['United States', 18, 21],
+  'GB': ['United Kingdom', 1, 1]
 }
