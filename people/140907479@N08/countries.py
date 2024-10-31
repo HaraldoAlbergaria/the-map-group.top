@@ -1,11 +1,12 @@
 countries_dict = {
-  'QA': ['Qatar', 4, 7],
-  'UZ': ['Uzbekistan', 1, 10],
-  'AQ': ['Antarctica', 1, 3],
   'FR': ['France', 1, 1],
-  'DE': ['Germany', 8, 8],
+  'NL': ['Netherlands', 3, 3],
+  'QA': ['Qatar', 4, 7],
+  'IN': ['India', 5, 5],
   'RU': ['Russia', 852, 1040],
-  'US': ['United States of America', 2, 2],
+  'UZ': ['Uzbekistan', 1, 10],
   'TR': ['Turkey', 35, 69],
-  'NL': ['Netherlands', 3, 3]
+  'DE': ['Germany', 8, 8],
+  'AQ': ['Antarctica', 1, 3],
+  'US': ['United States of America', 2, 2]
 }
